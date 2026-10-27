@@ -1,5 +1,5 @@
 ### Hi, I'm Ansh 👋
-PhD Scholar specilizing in computational oncology at IIT Bombay (Biosciences & Bioengineering).
+PhD Scholar specializing in computational oncology at IIT Bombay (Biosciences & Bioengineering).
 
 - 🔬 DNA methylation, metastatic organotropism and regulatory genomics in breast cancer
 - 🧠 ML for biology: Python (pandas, scikit-learn, TensorFlow/Keras), R/Bioconductor
